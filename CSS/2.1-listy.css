@@ -1,0 +1,7 @@
+* { background-color: bluelight}
+ol.roman {list-style-type: lower-roman; color: red}
+ul.decimal {list-style-type: lower-alpha}
+ul.number {list-style-type: decimal}
+ul.circle {list-style-type: circle}
+.blue {color: blue}
+.yellow {color: yellow}
